@@ -21,7 +21,7 @@
 title: Joe Donovan
 email: joe@donovan.to
 description: >- # this means to ignore newlines until "baseurl:"
-  I was told to start a blog so I started a blog.
+  A layman's log
 basewebsite: "/blog" # the subpath of your site, e.g. /blog
 url: https://jdn.vn # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jydnvn
