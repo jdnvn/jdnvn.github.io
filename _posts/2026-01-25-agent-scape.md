@@ -1,1 +1,4 @@
 As a kid, I was hopelessly addicted to a popular MMO game called RuneScape. I started playing RuneScape back in 2007. I still remember the Saturdays in the wintertime, waking up early with my older brother just to hop on our family computer, kill NPCs and level up. We played so much that my dad started jokingly calling it “RuinScape",  because "it’s ruining your life”. Recently, RuneScape has had a revival of sorts, in the form of a new game called "Old School RuneScape" or OSRS, essentially a fork of the game from 2007. 
+
+
+
